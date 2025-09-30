@@ -1,0 +1,14 @@
+{
+  "default": {
+    "out_pattern": "{shot}_OUT_v{version:02d}",
+    "matte_pattern": "{shot}_matte_{index}_v{version:02d}",
+    "nuke_pattern": "{shot}_nuke_v{version:02d}",
+    "sfx_pattern": "{shot}_sfx_v{version:02d}"
+  },
+  "clientA": {
+    "out_pattern": "{shot}_OUT_v{version:02d}",
+    "matte_pattern": "{shot}_matte_{index}_v{version:02d}",
+    "nuke_pattern": "{shot}_nuke_v{version:02d}",
+    "sfx_pattern": "{shot}_sfx_v{version:02d}"
+  }
+}
