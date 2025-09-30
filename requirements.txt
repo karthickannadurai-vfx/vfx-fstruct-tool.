@@ -1,2 +1,1 @@
-pillow
-pyinstaller
+PySide6
